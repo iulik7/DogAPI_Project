@@ -52,3 +52,4 @@ loadBtn.addEventListener('click', getDogData);
 
 // Apelăm funcția o dată la încărcarea paginii
 getDogData();
+// Verificare finală sistem logging
