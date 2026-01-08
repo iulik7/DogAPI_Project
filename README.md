@@ -13,3 +13,4 @@ Acesta este proiectul final pentru semestrul curent, axat pe integrarea unui API
 2. Apasă butonul "Încarcă alt cățel" pentru a genera o imagine nouă.
 3. Verifică tabelul pentru a vedea rasa detectată și statusul cererii.
 4. Apasă F12 pentru a vedea log-urile de monitorizare în consolă.
+''
