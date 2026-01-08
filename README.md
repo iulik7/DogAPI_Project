@@ -14,3 +14,4 @@ Acesta este proiectul final pentru semestrul curent, axat pe integrarea unui API
 3. Verifică tabelul pentru a vedea rasa detectată și statusul cererii.
 4. Apasă F12 pentru a vedea log-urile de monitorizare în consolă.
 ''
+Ultima actualizare: Ianuarie 2026.
